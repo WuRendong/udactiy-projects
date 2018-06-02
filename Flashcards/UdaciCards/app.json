@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "name": "Flashcards",
+    "description": "The best triathlon training app in the world.",
+    "slug": "flashcards",
+    "version": "1.0",
+    "icon": "https://png.icons8.com/dotty/50/000000/flashcards.png",
+    "notification": {
+      "icon": "https://png.icons8.com/dotty/50/000000/flashcards.png"
+    },
+    "ios": {
+     "bundleIdentifier": "org.flashcards.exp",
+    },
+    "android": {
+     "package": "org.flashcards.exp",
+    }
+  }
+}
